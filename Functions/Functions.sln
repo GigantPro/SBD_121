@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1082
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functions", "Functions\Functions.vcxproj", "{E51A8B11-D54C-4CDC-9AF9-ACCBAF071650}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcxproj", "{C73A0899-5C1B-4A3A-8D4C-B8A684D8A7CF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork", "HomeWork\HomeWork.vcxproj", "{054E2292-F62B-4F86-A61A-F1A1C6D53EF4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.vcxproj", "{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{054E2292-F62B-4F86-A61A-F1A1C6D53EF4}.Release|x64.Build.0 = Release|x64
 		{054E2292-F62B-4F86-A61A-F1A1C6D53EF4}.Release|x86.ActiveCfg = Release|Win32
 		{054E2292-F62B-4F86-A61A-F1A1C6D53EF4}.Release|x86.Build.0 = Release|Win32
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Debug|x64.ActiveCfg = Debug|x64
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Debug|x64.Build.0 = Debug|x64
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Debug|x86.Build.0 = Debug|Win32
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Release|x64.ActiveCfg = Release|x64
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Release|x64.Build.0 = Release|x64
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Release|x86.ActiveCfg = Release|Win32
+		{9E9E34EC-D4E8-4C97-B8BB-DFA7EE6847BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
