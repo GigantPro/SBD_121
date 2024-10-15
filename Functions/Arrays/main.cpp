@@ -1,4 +1,12 @@
-﻿#include<iostream>
+﻿//Function templates
+
+//template<typename T>
+//template
+//typename 
+//T - имя шаблонного типа
+
+
+#include<iostream>
 //#include<time.h>	//Библиотека, написанная на языке C
 #include<ctime>		//Такая же библиотека, написанная на языке C++
 using namespace std;
@@ -8,6 +16,7 @@ const unsigned int COLS = 5;
 
 void FillRand(int arr[], const unsigned int n, int minRand = 0, int maxRand = 100);	//Заполняет массив случайными числами
 void FillRand(double arr[], const unsigned int n, int minRand = 0, int maxRand = 100);	//Заполняет массив случайными числами
+
 void Print(int arr[], const unsigned int n);
 void Print(double arr[], const unsigned int n);
 void Print(int arr[ROWS][COLS], const unsigned int ROWS, const unsigned int COLS);

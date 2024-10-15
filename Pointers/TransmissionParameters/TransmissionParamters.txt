@@ -1,0 +1,3 @@
+1. По значению  - by value;
+2. По указателю - by pointer;
+3. По ссылке	- by reference;
